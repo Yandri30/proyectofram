@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "inventariobase-pro",
+    "invenbdd": "inventariobase-pro"
+  },
+  "targets": {},
+  "etags": {}
+}
